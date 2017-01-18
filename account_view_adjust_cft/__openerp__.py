@@ -16,6 +16,7 @@
     ],
     "data": [
         'views/account_voucher_pay_invoice.xml',
+        'views/report_view.xml',
     ],
     "js": [
     ],
